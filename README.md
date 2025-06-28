@@ -1,4 +1,4 @@
-```📈 Stock Market Analysis & Forecasting
+📈 Stock Market Analysis & Forecasting
 This project presents a complete end-to-end stock market analysis and prediction system using Python. It includes data preprocessing, feature engineering, exploratory data analysis (EDA), and machine learning modeling using Random Forest to forecast future closing prices.
 ```
 
