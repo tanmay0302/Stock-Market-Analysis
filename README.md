@@ -102,5 +102,7 @@ Deploy via Flask API or Streamlit app
 pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook
 
+**👨‍💻 Author**
+Tanmay Shishodia
 
 
