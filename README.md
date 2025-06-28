@@ -2,8 +2,8 @@
 ```
 This project presents a complete end-to-end stock market analysis and prediction system using Python. It includes data preprocessing, feature engineering, exploratory data analysis (EDA), and machine learning modeling using Random Forest to forecast future closing prices.
 ```
-
-```🚀 Project Objectives
+🚀 Project Objectives
+```
 Analyze historical stock data of AAPL, MSFT, GOOG, NFLX
 
 Visualize stock trends and distributions
@@ -14,7 +14,9 @@ Predict next-day stock prices using regression models
 
 Evaluate and tune models for better performance
 ```
-```📁 Dataset
+📁 Dataset
+```
+
 The dataset contains historical stock prices with the following columns:
 
 Date
@@ -23,7 +25,8 @@ Open, High, Low, Close, Volume
 
 Ticker (stock symbol)
 ```
-```📊 Workflow Overview
+📊 Workflow Overview
+```
 1. Define Scope
 Forecast daily closing prices for major tech companies.
 
@@ -59,7 +62,8 @@ Performed 5-fold cross-validation.
 9. Deployment
 Prepared for deployment with prediction on new input data.
 ```
-```🛠 Technologies Used
+🛠 Technologies Used
+```
 Python
 
 Pandas, NumPy
@@ -68,7 +72,8 @@ Matplotlib, Seaborn
 
 Scikit-learn (Random Forest, evaluation metrics)
 ```
-```📂 File Structure
+📂 File Structure
+```
 kotlin
 Copy
 Edit
