@@ -83,5 +83,15 @@ Edit
  ┣ 📁 data/
  ┃ ┗ 📄 stocks.csv
 ```
+✅ Future Improvements
+```
+Add live data fetching using yfinance or pandas_datareader
+
+Try LSTM/GRU deep learning models for sequential prediction
+
+Build interactive dashboards (Streamlit or Plotly)
+
+Deploy via Flask API or Streamlit app
+
 
 
